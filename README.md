@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayakhedr
-- 👀 I’m interested in wep developer
-- 🌱 I’m currently learning frame works
+- 👀 I’m interested in wep developer , machine learning
+- 🌱 I’m currently learning deeplearning
 - 💞️ I’m looking to collaborate on advices and revewis
 - 📫 you can reach me by mail:ayakhadre@yahoo.com
 - ⚡ Fun fact: always feel i sinck deeply in knowledge
