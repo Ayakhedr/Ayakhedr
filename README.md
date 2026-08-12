@@ -1,20 +1,20 @@
-# Hi, I'm Aya 
+# Hi, I'm Aya 👋
 
-### Machine Learning & Deep Learning Enthusiast
+### Pharmacist Machine Learning & Deep Learning Enthusiast
 
 I'm a Machine Learning enthusiast focused on building practical projects in **Deep Learning, Computer Vision, and Image Classification** using Python and PyTorch.
 
 I enjoy building end-to-end machine learning pipelines, from data preprocessing and model development to evaluation and performance analysis.
 
-## Skills & Technologies
+## 🛠️ Skills & Technologies
 
-**Languages**
+### Programming
 - Python
+- JavaScript
 - HTML
-- Css
-- Javascript
+- CSS
 
-**Machine Learning & Deep Learning**
+### Machine Learning & Deep Learning
 - PyTorch
 - Torchvision
 - Scikit-learn
@@ -22,14 +22,14 @@ I enjoy building end-to-end machine learning pipelines, from data preprocessing 
 - Transfer Learning
 - Image Classification
 
-**Data & Visualization**
+### Data & Visualization
 - NumPy
 - Pandas
 - Matplotlib
 - Data Preprocessing
 - Model Evaluation
 
-**Tools**
+### Tools
 - Git
 - GitHub
 - Jupyter Notebook
@@ -49,4 +49,4 @@ I enjoy building end-to-end machine learning pipelines, from data preprocessing 
 
 ---
 
-⭐ I'm continuously building projects and improving my skills in Machine Learning and Deep Learning.
+⭐ Continuously learning and building practical projects in Machine Learning and Deep Learning.
