@@ -1,11 +1,52 @@
-- 👋 Hi, I’m @Ayakhedr
-- 👀 I’m interested in wep developer , machine learning
-- 🌱 I’m currently learning deeplearning
-- 💞️ I’m looking to collaborate on advices and revewis
-- 📫 you can reach me by mail:ayakhadre@yahoo.com
-- ⚡ Fun fact: always feel i sinck deeply in knowledge
+# Hi, I'm Aya 
 
-<!---
-Ayakhedr/Ayakhedr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Machine Learning & Deep Learning Enthusiast
+
+I'm a Machine Learning enthusiast focused on building practical projects in **Deep Learning, Computer Vision, and Image Classification** using Python and PyTorch.
+
+I enjoy building end-to-end machine learning pipelines, from data preprocessing and model development to evaluation and performance analysis.
+
+## Skills & Technologies
+
+**Languages**
+- Python
+- HTML
+- Css
+- Javascript
+
+**Machine Learning & Deep Learning**
+- PyTorch
+- Torchvision
+- Scikit-learn
+- Convolutional Neural Networks (CNN)
+- Transfer Learning
+- Image Classification
+
+**Data & Visualization**
+- NumPy
+- Pandas
+- Matplotlib
+- Data Preprocessing
+- Model Evaluation
+
+**Tools**
+- Git
+- GitHub
+- Jupyter Notebook
+
+## Areas of Interest
+
+- Computer Vision
+- Deep Learning
+- Image Classification
+- Medical Image Analysis
+- Model Evaluation
+- Transfer Learning
+
+## Connect With Me
+
+- GitHub: [@Ayakhedr](https://github.com/Ayakhedr)
+
+---
+
+⭐ I'm continuously building projects and improving my skills in Machine Learning and Deep Learning.
